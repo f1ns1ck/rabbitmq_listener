@@ -16,3 +16,4 @@ C:\Users\f1ns1ck\Desktop\c#\rabbitMQ\video\reader\obj\Debug\net8.0\ref\reader.dl
 C:\Users\f1ns1ck\Desktop\c#\rabbitMQ\video\reader\bin\Debug\net8.0\RabbitMQ.Client.dll
 C:\Users\f1ns1ck\Desktop\c#\rabbitMQ\video\reader\obj\Debug\net8.0\reader.csproj.AssemblyReference.cache
 C:\Users\f1ns1ck\Desktop\c#\rabbitMQ\video\reader\obj\Debug\net8.0\reader.csproj.Up2Date
+C:\Users\f1ns1ck\Desktop\c#\rabbitMQ\video\reader\bin\Debug\net8.0\Newtonsoft.Json.dll
